@@ -1,6 +1,6 @@
 # :wave: Salut, je suis **Average**
 
-<kbd><img src="https://cdn.discordapp.com/avatars/1253390825107488900/ad6cdadc1f8110584d2a6ab2f05e1377.png"></kbd>
+<kbd><img src="https://i.pinimg.com/736x/30/68/0e/30680ebe65f38677cd1160fe33955092.jpg"></kbd>
 
 
 Je suis un jeune développeur passionné par le web et le backend. J'aime créer des applications web et explorer de nouvelles technologies.
