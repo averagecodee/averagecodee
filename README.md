@@ -1,4 +1,4 @@
-:wave: Salut, je suis **Average**
+# :wave: Salut, je suis **Average**
 
 <kbd><img src="https://cdn.discordapp.com/avatars/1253390825107488900/ad6cdadc1f8110584d2a6ab2f05e1377.png"></kbd>
 
@@ -13,6 +13,11 @@ Je suis un jeune développeur passionné par le web et le backend. J'aime créer
 
 ## :books: Actuellement en train d'apprendre
 - Techniques avancées de Python pour l'optimisation du backend
+
+### :bar_chart: **Mes statistiques GitHub :**
+![averagecodee Stats](https://github-readme-stats.vercel.app/api?username=averagecodee&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
+![averagecodee Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=averagecodee&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ## :mailbox: Me contacter
 - Discord : moovwz
