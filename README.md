@@ -20,6 +20,7 @@ Je suis un jeune développeur passionné par le web et le backend. J'aime créer
 ![averagecodee Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=averagecodee&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ## :mailbox: Me contacter
-- Discord : moovwz
+- Discord : ledgelivebtc
+
 
 N'hésitez pas à explorer mon repository et à me contacter pour toute collaboration ou question !
